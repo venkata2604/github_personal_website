@@ -10,6 +10,16 @@
 !.yarn/releases
 !.yarn/versions
 
+
+# for gh-pages
+/src/
+/public/
+eslint.config.mjs
+next.config.ts
+package-lock.json
+package.json
+tsconfig.json
+
 # testing
 /coverage
 
